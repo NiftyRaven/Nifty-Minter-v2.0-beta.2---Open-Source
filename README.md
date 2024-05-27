@@ -12,8 +12,8 @@
 # Nifty Minter™
 
 Ravencoin's premier Discord Bot for minting and trading NFTs. Get detailed information on digital assets, market data, and the NFT ecosystem. Easily create, trade, and manage NFTs securely with Ravencoin's blockchain technology. Join Nifty Minter™ to explore and participate in the innovative world of NFTs on Ravencoin.
-
-## About Nifty Minter™
+                                                                                                                                  
+If you would like to invite this bot into your discord without having to code, and connect into NiftyRaven like space doscking. ;)   https://niftyraven.com/
 
 NiftyMinter is an innovative NFT minting tool designed to seamlessly integrate with the Ravencoin blockchain. It allows users to mint, manage, and trade NFTs effortlessly, providing an interactive and user-friendly interface. This tool was tested by the community, and the features in it were recommended by the community. 
 
