@@ -73,8 +73,12 @@ If you find this software useful and would like to support the development and m
 - **Community Marketplace (NiftyRaven Rewards Wallet for NIFTYRAVEN.COM/VIP holers):**
   [REr5yJZXanH1r8TK5BACwsGhq3qBrt78rQ](https://explorer.mangofarmassets.com/address/REr5yJZXanH1r8TK5BACwsGhq3qBrt78rQ)
 
-- **Developer Donation Address:**
-  [RWSHne54VgbWyNj3c2Um3Utu1GzDcmuNiX](https://explorer.mangofarmassets.com/address/RWSHne54VgbWyNj3c2Um3Utu1GzDcmuNiX)
+**Developer RVN-Donation Address:**  
+[RP1GCGYUmgjcTRzyhXjyGwycnPfD3YRAcU](https://explorer.mangofarmassets.com/address/RP1GCGYUmgjcTRzyhXjyGwycnPfD3YRAcU)
+
+**Developer EVR-Donation Address:**  
+[EHxyibjrQWdSAvyXygYtkUcD4Hqpd1SBpm](https://evr.cryptoscope.io/address/?address=EHxyibjrQWdSAvyXygYtkUcD4Hqpd1SBpm)
+
 
 Thank you for your support and contributions!
 
